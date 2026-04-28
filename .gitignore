@@ -1,0 +1,25 @@
+# Local/editor/agent state
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.omc/
+.serena/
+
+# Secrets and credentials
+.env*
+!.env.example
+.npmrc
+.pypirc
+*.key
+*.pem
+*.p12
+*.crt
+*.cert
+credentials/
+cookies/
+secrets.*
+*.secret
+*.db
+*.sqlite
